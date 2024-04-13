@@ -10,6 +10,7 @@
 
 > [!IMPORTANT]
 > This will disable controller input, but improves the FPS from 10 -> 100
+> Input lag with external mouse and frame drops randomly
 
 - Start CS2 from Steam as normal
 
